@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheefa Naaz</h1>
 <h3 align="center">Passionate about Data Science</h3>
-<img align="right" width=400 alt="coding" src="https://img.freepik.com/premium-vector/woman-working-with-computer-home-office-student-freelancer-customer-service-call-center-support_113065-1269.jpg?w=740">
+<img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🔭 I’m currently working on **Mental Health Chatbot**
 
