@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mental Health Chatbot**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **NLP, Flask**
 
 - 📫 How to reach me **sheefanaaz6417@gmail.com**
 
