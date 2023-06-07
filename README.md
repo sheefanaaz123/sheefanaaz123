@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
 - 📫 How to reach me **sheefanaaz6417@gmail.com**
+![download](https://github.com/sheefanaaz123/sheefanaaz123/assets/97973932/ce320306-f78e-4d57-b52f-b6d0e988f621)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
