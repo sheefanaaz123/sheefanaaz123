@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sheefa Naaz</h1>
 <h3 align="center">Passionate about Data Science</h3>
-<imgalign="right" width=400 alt="coding" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg">
+<imgalign="right" width=400 alt="coding" src="C:\Users\KIIT\Desktop\download.png">
 
 - 🔭 I’m currently working on **Mental Health Chatbot**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
 - 📫 How to reach me **sheefanaaz6417@gmail.com**
-![download](https://github.com/sheefanaaz123/sheefanaaz123/assets/97973932/ce320306-f78e-4d57-b52f-b6d0e988f621)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
