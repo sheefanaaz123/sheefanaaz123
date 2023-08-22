@@ -2,9 +2,9 @@
 <h3 align="center">Data Science | Data Analysis | AI | ML</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🔭 I’m currently working on **NLP Project**
+- 🔭 I’m currently working on **mastering DSA**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Pytorch, Flask**
 
 - 📫 How to reach me **sheefanaaz6417@gmail.com**
 
