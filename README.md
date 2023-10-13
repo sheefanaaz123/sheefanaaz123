@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **Pytorch, Flask**
+- 🌱 I’m currently learning **HTML, CSS and JAVASCRIPT**
 
 - 📫 How to reach me **sheefanaaz6417@gmail.com**
 
