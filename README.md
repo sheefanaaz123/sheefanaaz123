@@ -2,9 +2,7 @@
 <h3 align="center">Data Science | Data Analysis | AI | ML</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🔭 I’m currently working on **NLP**
-
-- 🌱 I’m currently learning **HTML, CSS and JAVASCRIPT**
+- 🔭 I’m currently working on **React js**
 
 - 📫 How to reach me **sheefanaaz6417@gmail.com**
 
