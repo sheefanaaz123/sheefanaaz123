@@ -1,29 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sheefa Naaz</h1>
-<h3 align="center">✨ Passionate Frontend Developer | React.js Enthusiast | UI/UX Focused ✨</h3>
+<h1 align="center" style="color: #ff69b4;">Hi 👋, I'm Sheefa Naaz</h1>
+<h3 align="center" style="color: #98ff98;">🌸 Frontend Developer | React.js Enthusiast | Aesthetic UI Lover 🌸</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
-
-- 🔭 Currently building scalable front-end apps with **React.js, TypeScript, MUI & AntD**
-- 💡 Focused on **performance**, **responsiveness**, and **clean UI/UX**
-- 🌱 Constantly learning and experimenting with **modern frontend tools**
-- 🤝 Open to collaboration on real-world React projects
-- 📫 Reach me at **sheefanaaz6417@gmail.com**
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding" width="400"/>
+</div>
 
 ---
 
-### 🌐 Let's Connect
+### 💖 About Me
 
-<p align="left">
+- 🔭 Currently building cute and powerful frontends with **React.js, TypeScript, MUI & AntD**
+- 🎀 Passionate about **beautiful UI/UX design and user experiences**
+- 🌱 Always learning, growing, and experimenting with new tools
+- 📫 Reach me at: **sheefanaaz6417@gmail.com**
+- ✨ Dreaming of creating magical frontend experiences!
+
+---
+
+### 💌 Connect with Me
+
+<p align="center">
   <a href="https://linkedin.com/in/sheefa-naaz/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🎀 Languages & Tools I Use
 
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -63,16 +69,16 @@
 
 ---
 
-### 📈 GitHub Stats
+### ✨ GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheefanaaz123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheefanaaz123&layout=compact&theme=ayu-mirage&title_color=ff69b4&icon_color=98ff98&text_color=ffffff&bg_color=ffffff00" alt="Top Languages"/>
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheefanaaz123&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheefanaaz123&show_icons=true&theme=ayu-mirage&title_color=ff69b4&icon_color=98ff98&text_color=ffffff&bg_color=ffffff00" alt="GitHub Stats"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheefanaaz123&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheefanaaz123&theme=ayu-mirage&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&currStreakLabel=ff69b4&background=FFFFFF00" alt="GitHub Streak"/>
 </p>
