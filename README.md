@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheefa Naaz</h1>
-<h3 align="center">Data Science | Data Analysis | AI | ML</h3>
+<h3 align="center">Frontend Developer | React | Javascript</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🔭 I’m currently working on **React js**
