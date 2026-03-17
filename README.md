@@ -23,6 +23,9 @@
   <a href="https://linkedin.com/in/sheefa-naaz/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
   </a>
+  <a href="https://topmate.io/sheefa_naaz/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/link.png" alt="topmate" width="40" height="40"/>
+  </a>
 </p>
 
 ---
