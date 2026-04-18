@@ -24,7 +24,7 @@
 
 ### 🎀 Languages & Tools I Use
 
-<p style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;>
+<p style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;">
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
