@@ -17,16 +17,14 @@
 ---
 
 ### 💌 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sheefa-naaz/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
+<p style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;">
+  <a href="https://linkedin.com/in/sheefa-naaz/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="https://topmate.io/sheefa_naaz/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://img.icons8.com/fluency/48/link.png" alt="topmate" width="40" height="40"/>
+  <a href="https://topmate.io/sheefa_naaz/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/link.png" width="40" />
   </a>
 </p>
-
 ---
 
 ### 🎀 Languages & Tools I Use
