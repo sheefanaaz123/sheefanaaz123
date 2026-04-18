@@ -5,16 +5,12 @@
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding" width="400"/>
 </div>
 
----
-
 ### 💖 About Me
 
 - 🔭 Currently building cute and powerful frontends with **React.js, Javascript**
 - 🎀 Passionate about **beautiful UI/UX design and user experiences**
 - 🌱 Always learning, growing, and experimenting with new tools
 - 📫 Reach me at: **sheefanaaz6417@gmail.com**
-
----
 
 ### 💌 Connect with Me
 <p style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;">
@@ -25,11 +21,10 @@
     <img src="https://img.icons8.com/fluency/48/link.png" width="40" />
   </a>
 </p>
----
 
 ### 🎀 Languages & Tools I Use
 
-<p align="center">
+<p style="display:flex; justify-content:center; gap:10px; flex-wrap:nowrap;>
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
