@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ff69b4;">Hi 👋, I'm Sheefa Naaz</h1>
-<h3 align="center" style="color: #98ff98;">🌸 Frontend Developer | React.js  🌸</h3>
+<h3 align="center" style="color: #98ff98;">🌸 Software Developer 🌸</h3>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding" width="400"/>
@@ -13,17 +13,16 @@
 - 🎀 Passionate about **beautiful UI/UX design and user experiences**
 - 🌱 Always learning, growing, and experimenting with new tools
 - 📫 Reach me at: **sheefanaaz6417@gmail.com**
-- ✨ Dreaming of creating magical frontend experiences!
 
 ---
 
 ### 💌 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sheefa-naaz/" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/sheefa-naaz/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="https://topmate.io/sheefa_naaz/" target="_blank" rel="noreferrer">
+  <a href="https://topmate.io/sheefa_naaz/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://img.icons8.com/fluency/48/link.png" alt="topmate" width="40" height="40"/>
   </a>
 </p>
