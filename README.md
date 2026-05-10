@@ -23,7 +23,6 @@
 </p>
 
 ### ✨ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sheefanaaz123&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sheefanaaz123&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sheefanaaz123&layout=compact&theme=radical)
+<div align="center">![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sheefanaaz123&show_icons=true&theme=radical)</div>
+<p> ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sheefanaaz123&theme=radical)</p>
+<p>![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sheefanaaz123&layout=compact&theme=radical)</p>
