@@ -24,14 +24,6 @@
 
 ### ✨ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheefanaaz123&layout=compact&theme=ayu-mirage&title_color=ff69b4&icon_color=98ff98&text_color=ffffff&bg_color=ffffff00" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheefanaaz123&show_icons=true&theme=ayu-mirage&title_color=ff69b4&icon_color=98ff98&text_color=ffffff&bg_color=ffffff00" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheefanaaz123&theme=ayu-mirage&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&currStreakLabel=ff69b4&background=FFFFFF00" alt="GitHub Streak"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sheefanaaz123&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sheefanaaz123&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sheefanaaz123&layout=compact&theme=radical)
